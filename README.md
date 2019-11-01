@@ -1,4 +1,4 @@
-# Dijkstra-algorithm
+# Astar-Dijkstra-algorithm
 Aditya Vaishampayan
 UID: 116077354
 
